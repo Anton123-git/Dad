@@ -16,6 +16,7 @@ class VerificationActivity : AppCompatActivity() {
 
     private lateinit var resendText: TextView
     private lateinit var timerTextView: TextView
+    
     private lateinit var editTextList: List<EditText>
     private lateinit var nextButtonVer: Button
     private lateinit var countDownTimer: CountDownTimer
